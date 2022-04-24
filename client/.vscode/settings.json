@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "prettier.endOfLine": "lf",
+  "editor.renderWhitespace": "all",
+  "files.eol": "\n"
+}
